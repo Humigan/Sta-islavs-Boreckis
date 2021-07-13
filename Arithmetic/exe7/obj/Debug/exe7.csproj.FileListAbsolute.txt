@@ -1,6 +1,0 @@
-C:\Users\Humigan\source\repos\ConsoleApp3\exe7\bin\Debug\exe7.exe.config
-C:\Users\Humigan\source\repos\ConsoleApp3\exe7\bin\Debug\exe7.exe
-C:\Users\Humigan\source\repos\ConsoleApp3\exe7\bin\Debug\exe7.pdb
-C:\Users\Humigan\source\repos\ConsoleApp3\exe7\obj\Debug\exe7.csproj.CoreCompileInputs.cache
-C:\Users\Humigan\source\repos\ConsoleApp3\exe7\obj\Debug\exe7.exe
-C:\Users\Humigan\source\repos\ConsoleApp3\exe7\obj\Debug\exe7.pdb
