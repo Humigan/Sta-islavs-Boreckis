@@ -1,0 +1,6 @@
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.exe.config
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.exe
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\bin\Debug\MoreVariablesAndPrinting.pdb
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.csproj.CoreCompileInputs.cache
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.exe
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\MoreVariablesAndPrinting\obj\Debug\MoreVariablesAndPrinting.pdb
