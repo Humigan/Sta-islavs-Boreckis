@@ -1,0 +1,6 @@
+C:\Users\Humigan\source\repos\ConsoleApp3\exe8\bin\Debug\exe8.exe.config
+C:\Users\Humigan\source\repos\ConsoleApp3\exe8\bin\Debug\exe8.exe
+C:\Users\Humigan\source\repos\ConsoleApp3\exe8\bin\Debug\exe8.pdb
+C:\Users\Humigan\source\repos\ConsoleApp3\exe8\obj\Debug\exe8.csproj.CoreCompileInputs.cache
+C:\Users\Humigan\source\repos\ConsoleApp3\exe8\obj\Debug\exe8.exe
+C:\Users\Humigan\source\repos\ConsoleApp3\exe8\obj\Debug\exe8.pdb

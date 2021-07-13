@@ -1,0 +1,16 @@
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\bin\Debug\net5.0\exe9.exe
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\bin\Debug\net5.0\exe9.deps.json
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\bin\Debug\net5.0\exe9.runtimeconfig.json
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\bin\Debug\net5.0\exe9.runtimeconfig.dev.json
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\bin\Debug\net5.0\exe9.dll
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\bin\Debug\net5.0\ref\exe9.dll
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\bin\Debug\net5.0\exe9.pdb
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\exe9.csproj.AssemblyReference.cache
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\exe9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\exe9.AssemblyInfoInputs.cache
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\exe9.AssemblyInfo.cs
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\exe9.csproj.CoreCompileInputs.cache
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\exe9.dll
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\ref\exe9.dll
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\exe9.pdb
+C:\Users\Humigan\source\repos\ConsoleApp3\exe9\obj\Debug\net5.0\exe9.genruntimeconfig.cache
