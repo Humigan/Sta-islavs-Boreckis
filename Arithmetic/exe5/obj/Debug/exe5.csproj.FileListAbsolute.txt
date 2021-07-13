@@ -1,0 +1,7 @@
+C:\Users\Humigan\source\repos\ConsoleApp3\exe5\bin\Debug\exe5.exe.config
+C:\Users\Humigan\source\repos\ConsoleApp3\exe5\bin\Debug\exe5.exe
+C:\Users\Humigan\source\repos\ConsoleApp3\exe5\bin\Debug\exe5.pdb
+C:\Users\Humigan\source\repos\ConsoleApp3\exe5\obj\Debug\exe5.csproj.CoreCompileInputs.cache
+C:\Users\Humigan\source\repos\ConsoleApp3\exe5\obj\Debug\exe5.exe
+C:\Users\Humigan\source\repos\ConsoleApp3\exe5\obj\Debug\exe5.pdb
+C:\Users\Humigan\source\repos\ConsoleApp3\exe5\obj\Debug\exe5.csproj.AssemblyReference.cache
