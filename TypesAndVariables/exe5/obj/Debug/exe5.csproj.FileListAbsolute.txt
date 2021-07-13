@@ -1,0 +1,6 @@
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe5\bin\Debug\exe5.exe.config
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe5\bin\Debug\exe5.exe
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe5\bin\Debug\exe5.pdb
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe5\obj\Debug\exe5.csproj.CoreCompileInputs.cache
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe5\obj\Debug\exe5.exe
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe5\obj\Debug\exe5.pdb

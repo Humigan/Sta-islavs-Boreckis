@@ -1,0 +1,7 @@
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe7\bin\Debug\exe7.exe.config
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe7\bin\Debug\exe7.exe
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe7\bin\Debug\exe7.pdb
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe7\obj\Debug\exe7.csproj.AssemblyReference.cache
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe7\obj\Debug\exe7.csproj.CoreCompileInputs.cache
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe7\obj\Debug\exe7.exe
+C:\Users\Humigan\Source\Repos\codelex-io\c-sharp-syllabus\csharp-basics\exercises\TypesAndVariables\exe7\obj\Debug\exe7.pdb
